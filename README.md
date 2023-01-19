@@ -1,4 +1,8 @@
 # Flutter Authnication
+## About Me
+- Name: Ubeyd Abdi shiikh salaad
+- Class: CA192
+- ID: C119536
 # Flutter Authnication
 it has a project that is Used for Building Sign In and SignUp Authentication.
 ##Project Used:
