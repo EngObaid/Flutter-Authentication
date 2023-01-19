@@ -23,7 +23,7 @@ when we click button Register
 -----------------------------------------------------------------------------------
 ## INFO PROJECT
 - This Project was Assignment in our class 
-by Our Teacher: - [Eng Ahmed Nuur]( https://github.com/ahmednamoha/flutter-auth).
+by Our Teacher: - [Eng Ahmed Nuur]( https://github.com/ahmednamoha/).
 
 This project is a starting point for a Flutter application.
 
