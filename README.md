@@ -21,7 +21,10 @@ when we click button Register
 ![image](https://user-images.githubusercontent.com/101409254/212835068-6472d865-d0fc-4d3c-84ce-b346a5d392d9.png)
 
 -----------------------------------------------------------------------------------
-#info Project
+## INFO PROJECT
+- This Project was Assignment in our class 
+by Our Teacher: - [Eng Ahmed Nuur]( https://github.com/ahmednamoha/flutter-auth).
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
